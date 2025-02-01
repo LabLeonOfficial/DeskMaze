@@ -1,0 +1,6 @@
+5
+map.txt,default test level(8*8)
+map33.txt,3*3 test level
+map66.txt,6*6 test level
+map99.txt,9*9 test level
+map1212.txt,12*12 test level

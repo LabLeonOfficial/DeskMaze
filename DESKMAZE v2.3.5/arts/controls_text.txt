@@ -1,0 +1,9 @@
+33 9
+Please fullscreen before playing!
+
+W/A/S/D: Move
+Mouse: Rotate (Horizontally)
+Holding Shift: Run
+L: Leave The Game
+
+Press 'Enter' to continue.
